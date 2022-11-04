@@ -1,0 +1,23 @@
+{
+  "name": "show_myname",
+  "version": "1.0.0",
+  "description": "want to show my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamone178/show_myName.git"
+  },
+  "keywords": [
+    "yym"
+  ],
+  "author": "Yamone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamone178/show_myName/issues"
+  },
+  "homepage": "https://github.com/yamone178/show_myName#readme"
+}
